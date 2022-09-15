@@ -1,0 +1,302 @@
+:root {
+  --ma6: 6rem;
+  --ma7: 12rem;
+  --ma8: 24rem;
+}
+
+.my-6 {
+    margin-top: var(--ma6)!important;
+    margin-bottom: var(--ma6)!important;
+}
+
+.my-7 {
+    margin-top: var(--ma7)!important;
+    margin-bottom: var(--ma7)!important;
+}
+
+.my-8 {
+    margin-top: var(--ma8)!important;
+    margin-bottom: var(--ma8)!important;
+}
+
+.py-6 {
+    padding-top: var(--ma6)!important;
+    padding-bottom: var(--ma6)!important;
+}
+
+.py-7 {
+    padding-top: var(--ma7)!important;
+    padding-bottom: var(--ma7)!important;
+}
+
+.py-8 {
+    padding-top: var(--ma8)!important;
+    padding-bottom: var(--ma8)!important;
+}
+
+.mt-6 {
+    margin-top: var(--ma6)!important;
+}
+
+.mt-7 {
+    margin-top: var(--ma7)!important;
+}
+
+.mt-8 {
+    margin-top: var(--ma8)!important;
+}
+
+.px-6 {
+    padding-left: var(--ma6)!important;
+    padding-right: var(--ma6)!important;
+}
+
+.px-7 {
+    padding-left: var(--ma7)!important;
+    padding-right: var(--ma7)!important;
+}
+
+.pt-6 {
+    padding-top: var(--ma6)!important;
+}
+
+.pt-7 {
+    padding-top: var(--ma7)!important;
+}
+
+.pt-8 {
+    padding-top: var(--ma8)!important;
+}
+
+.justify-content-right {
+    justify-content: right !important;
+}
+
+
+/* sm */
+@media (min-width:576px) {
+  .my-sm-6 {
+    margin-top: var(--ma6)!important;
+    margin-bottom: var(--ma6)!important;
+  }
+  .my-sm-7 {
+    margin-top: var(--ma7)!important;
+    margin-bottom: var(--ma7)!important;
+  }
+  .my-sm-8 {
+    margin-top: var(--ma8)!important;
+    margin-bottom: var(--ma8)!important;
+  }
+  .py-sm-6 {
+    padding-top: var(--ma6)!important;
+    padding-bottom: var(--ma6)!important;
+  }
+  .py-sm-7 {
+    padding-top: var(--ma7)!important;
+    padding-bottom: var(--ma7)!important;
+  }
+  .py-sm-8 {
+    padding-top: var(--ma8)!important;
+    padding-bottom: var(--ma8)!important;
+  }
+  .mt-sm-6 {
+    margin-top: var(--ma6)!important;
+  }
+  .mt-sm-7 {
+    margin-top: var(--ma7)!important;
+  }
+  .mt-sm-8 {
+    margin-top: var(--ma8)!important;
+  }
+  .px-sm-6 {
+    padding-left: var(--ma6)!important;
+    padding-right: var(--ma6)!important;
+  }
+  .px-sm-7 {
+    padding-left: var(--ma7)!important;
+    padding-right: var(--ma7)!important;
+  }
+  .pt-sm-6 {
+    padding-top: var(--ma6)!important;
+  }
+  .pt-sm-7 {
+    padding-top: var(--ma7)!important;
+  }
+  .pt-sm-8 {
+    padding-top: var(--ma8)!important;
+  }
+  .justify-content-sm-right {
+    justify-content: right !important;
+  }
+}
+
+/* md */
+@media (min-width:768px) {
+  .my-md-6 {
+    margin-top: var(--ma6)!important;
+    margin-bottom: var(--ma6)!important;
+  }
+  .my-md-7 {
+    margin-top: var(--ma7)!important;
+    margin-bottom: var(--ma7)!important;
+  }
+  .my-md-8 {
+    margin-top: var(--ma8)!important;
+    margin-bottom: var(--ma8)!important;
+  }
+  .py-md-6 {
+    padding-top: var(--ma6)!important;
+    padding-bottom: var(--ma6)!important;
+  }
+  .py-md-7 {
+    padding-top: var(--ma7)!important;
+    padding-bottom: var(--ma7)!important;
+  }
+  .py-md-8 {
+    padding-top: var(--ma8)!important;
+    padding-bottom: var(--ma8)!important;
+  }
+  .mt-md-6 {
+    margin-top: var(--ma6)!important;
+  }
+  .mt-md-7 {
+    margin-top: var(--ma7)!important;
+  }
+  .mt-md-8 {
+    margin-top: var(--ma8)!important;
+  }
+  .px-md-6 {
+    padding-left: var(--ma6)!important;
+    padding-right: var(--ma6)!important;
+  }
+  .px-md-7 {
+    padding-left: var(--ma7)!important;
+    padding-right: var(--ma7)!important;
+  }
+  .pt-md-6 {
+    padding-top: var(--ma6)!important;
+  }
+  .pt-md-7 {
+    padding-top: var(--ma7)!important;
+  }
+  .pt-md-8 {
+    padding-top: var(--ma8)!important;
+  }
+  .justify-content-md-right {
+    justify-content: right !important;
+  }
+}
+
+/* lg */
+@media (min-width:992px) {
+  .my-lg-6 {
+    margin-top: var(--ma6)!important;
+    margin-bottom: var(--ma6)!important;
+  }
+  .my-lg-7 {
+    margin-top: var(--ma7)!important;
+    margin-bottom: var(--ma7)!important;
+  }
+  .my-lg-8 {
+    margin-top: var(--ma8)!important;
+    margin-bottom: var(--ma8)!important;
+  }
+  .py-lg-6 {
+    padding-top: var(--ma6)!important;
+    padding-bottom: var(--ma6)!important;
+  }
+  .py-lg-7 {
+    padding-top: var(--ma7)!important;
+    padding-bottom: var(--ma7)!important;
+  }
+  .py-lg-8 {
+    padding-top: var(--ma8)!important;
+    padding-bottom: var(--ma8)!important;
+  }
+  .mt-lg-6 {
+    margin-top: var(--ma6)!important;
+  }
+  .mt-lg-7 {
+    margin-top: var(--ma7)!important;
+  }
+  .mt-lg-8 {
+    margin-top: var(--ma8)!important;
+  }
+  .px-lg-6 {
+    padding-left: var(--ma6)!important;
+    padding-right: var(--ma6)!important;
+  }
+  .px-lg-7 {
+    padding-left: var(--ma7)!important;
+    padding-right: var(--ma7)!important;
+  }
+  .pt-lg-6 {
+    padding-top: var(--ma6)!important;
+  }
+  .pt-lg-7 {
+    padding-top: var(--ma7)!important;
+  }
+  .pt-lg-8 {
+    padding-top: var(--ma8)!important;
+  }
+  .justify-content-lg-right {
+    justify-content: right !important;
+  }
+}
+
+/* xl */
+@media (min-width:1200px) {
+  .my-xl-6 {
+    margin-top: var(--ma6)!important;
+    margin-bottom: var(--ma6)!important;
+  }
+  .my-xl-7 {
+    margin-top: var(--ma7)!important;
+    margin-bottom: var(--ma7)!important;
+  }
+  .my-xl-8 {
+    margin-top: var(--ma8)!important;
+    margin-bottom: var(--ma8)!important;
+  }
+  .py-xl-6 {
+    padding-top: var(--ma6)!important;
+    padding-bottom: var(--ma6)!important;
+  }
+  .py-xl-7 {
+    padding-top: var(--ma7)!important;
+    padding-bottom: var(--ma7)!important;
+  }
+  .py-xl-8 {
+    padding-top: var(--ma8)!important;
+    padding-bottom: var(--ma8)!important;
+  }
+  .mt-xl-6 {
+    margin-top: var(--ma6)!important;
+  }
+  .mt-xl-7 {
+    margin-top: var(--ma7)!important;
+  }
+  .mt-xl-8 {
+    margin-top: var(--ma8)!important;
+  }
+  .px-xl-6 {
+    padding-left: var(--ma6)!important;
+    padding-right: var(--ma6)!important;
+  }
+  .px-xl-7 {
+    padding-left: var(--ma7)!important;
+    padding-right: var(--ma7)!important;
+  }
+  .pt-xl-6 {
+    padding-top: var(--ma6)!important;
+  }
+  .pt-xl-7 {
+    padding-top: var(--ma7)!important;
+  }
+  .pt-xl-8 {
+    padding-top: var(--ma8)!important;
+  }
+  .justify-content-xl-right {
+    justify-content: right !important;
+  }
+}

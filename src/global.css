@@ -1,0 +1,22 @@
+:root {
+  --darkblue: #455A64;
+  --background: #f0f0f3;
+  --textcolor: #333;
+  --spartanfont: "Spartan", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+* {
+  font-family: var(--spartanfont)!important;
+}
+
+h1, h2, h3 {
+  color: var(--darkblue);
+}
+
+p {
+  color: var(--textcolor);
+}
+
+a, a:hover, a:visited {
+  color: var(--textcolor);
+}

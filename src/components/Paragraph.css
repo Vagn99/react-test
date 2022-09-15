@@ -1,0 +1,23 @@
+.paragraph-hero {
+  line-height: 2;
+  font-size: 1.125rem;
+}
+
+.paragraph-section {
+  line-height: 24px;
+  letter-spacing: 0.08em;
+  font-weight: 400;
+
+}
+
+.paragraph-small {
+  font-size: 0.8em;
+  font-weight: 500;
+  line-height: 0.9;
+}
+
+.paragraph-contact {
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+}

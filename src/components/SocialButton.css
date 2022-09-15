@@ -1,0 +1,27 @@
+.SocialButton > a {
+  display: block;
+  border-radius: 10px;
+  /* background-color: rgb(130, 130, 140); */
+  box-shadow: -5px -5px 20px #ffffff, 5px 5px 20px rgb(174, 174, 192, 0.5);
+  color: #455a64;
+}
+
+.SocialButton > a:hover {
+    box-shadow: inset -5px -5px 20px #ffffff, inset 5px 5px 20px rgb(174, 174, 192, 0.5);
+}
+
+.SocialButton div {
+  height: 50px;
+  width: 100%;
+  display: block;
+}
+
+.SocialButton svg {
+  margin-top: 15px;
+}
+
+.SocialButton {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}

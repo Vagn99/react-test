@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27eb1243.css",
+    "main.js": "/static/js/main.7a4bd778.js",
+    "static/media/FranklyTeam.jpg": "/static/media/FranklyTeam.f8bf0d10fd723ac6866c.jpg",
+    "static/media/FranklyTeamLow.jpg": "/static/media/FranklyTeamLow.6455b000d946629a2756.jpg",
+    "static/media/LogoTransparent.svg": "/static/media/LogoTransparent.5993f88ddf35bfeae640920b05fa6c30.svg",
+    "index.html": "/index.html",
+    "main.27eb1243.css.map": "/static/css/main.27eb1243.css.map",
+    "main.7a4bd778.js.map": "/static/js/main.7a4bd778.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27eb1243.css",
+    "static/js/main.7a4bd778.js"
+  ]
+}
