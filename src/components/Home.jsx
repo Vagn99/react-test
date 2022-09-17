@@ -5,6 +5,7 @@ import Col from "react-bootstrap/Col";
 import "./Home.css";
 
 import drippingCock from "../img/dripping-cock.jpg";
+import carl from "../img/carlll.jpg";
 
 const Home = () => {
   return (
@@ -36,6 +37,13 @@ const Home = () => {
               <br/>
               Dryppende hane.
             </p>
+          </div>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <div className="d-flex pt-5">
+            <img src={carl} className="mx-auto d-block rotate" width="20%" alt="carl" />
           </div>
         </Col>
       </Row>
