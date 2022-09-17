@@ -16,7 +16,7 @@ const Home = () => {
         </div>
         </Col>
       </Row>
-      <Row style={{borderBottom: "5px solid red"}}>
+      <Row className="pb-5" style={{borderBottom: "5px solid red"}}>
         <Col xs="12" md="6">
           <div className="d-flex pt-5">
             <img src={drippingCock} className="mx-auto" width="100%" alt="dripping cock" />
