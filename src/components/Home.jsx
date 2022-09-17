@@ -19,7 +19,7 @@ const Home = () => {
       <Row>
         <Col>
         <div className="d-flex pt-5">
-          <img src={drippingCock} className="mx-auto" width="100%" alt="dripping cock" />
+          <img src={drippingCock} className="mx-auto" width="50%" alt="dripping cock" />
         </div>
         </Col>
       </Row>
