@@ -1,11 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "./global.css";
-import "./ma.css";
-import "./App.css";
+import './App.css';
 
-
-
-import Home from "./components/pages/Home";
+import Home from './components/Home';
 
 function App() {
   return (
